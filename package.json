@@ -1,0 +1,8 @@
+{
+  "name": "primo-explore-thumbnail-link",
+  "version": "0.0.1",
+  "description": "Link thumbnails with linktorsrc",
+  "main": "index.js",
+  "author": "Luke Gaudreau",
+  "license": "MIT"
+}
