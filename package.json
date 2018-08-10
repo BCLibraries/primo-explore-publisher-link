@@ -1,7 +1,7 @@
 {
-  "name": "primo-explore-thumbnail-link",
+  "name": "primo-explore-publisher-link",
   "version": "0.0.1",
-  "description": "Link thumbnails with linktorsrc",
+  "description": "Replace ViewIt link with publisher link (PNX:links/backlink)",
   "main": "index.js",
   "author": "Luke Gaudreau",
   "license": "MIT"
